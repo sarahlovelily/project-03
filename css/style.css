@@ -55,7 +55,10 @@ footer span {
 input[type="text"],
 input[type="email"],
 input[type="number"],
+<<<<<<< HEAD
 input[type="tel"],
+=======
+>>>>>>> 2f37cfe80be489e7fef30b5fd86b1cf9967b97b2
 textarea,
 select[class="state"] {
   line-height: 2.2em;
